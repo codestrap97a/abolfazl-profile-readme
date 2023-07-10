@@ -30,11 +30,11 @@
 
 I am a computer engineer (also a Back-end developer 💻) from Iran 🇮🇷.<br />I love working in high tech companies to expand and exmanie my expertise, knowledge along with creating and modifying fresh, robust apps. 
 
-- 🔭 Currently I am learning .NET Stack, MSSQL and seeking for internship oppurtunities.
-- 🌱 Watching Teck Documentaries, reading Books.
-- 🆓 In my free time, I solve problems and surf the Internet for useful tech article out there.
+- 🔭 Currently I am learning .NET stack, MSSQL and seeking for internship oppurtunities.
+- 🌱 Watching Tech Documentaries, reading Books.
+- 🆓 In my free time, I solve problems on coding platforms and surf the Internet for useful tech article out there.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Hated C# at school and NOW guess, "I fucking love it..."
+- ⚡ Fun fact: Talk to me through CODE!!!
 - 💬 Ask me about anything:  [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red)](mailto:abolfazl.comm12@gmail.com).
 
 ---
