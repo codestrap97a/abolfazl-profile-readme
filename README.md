@@ -73,11 +73,5 @@ I am a computer engineer (also a Back-end developer 💻) from Iran 🇮🇷.<br
 
 ## 🔥 My Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codestrap97a&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codestrap97a&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
-</a>
 
 
