@@ -8,17 +8,22 @@
 <img src="Assets/Banner.png" align="center" />  <br/>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="www.codestrap.ir">
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/>
   
-  <a href="your-youtube-URL">
+  <a href="https://www.t.me/codestrap">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://instagram.com/codestrap_abl?igshid=MzNlNGNkZWQ4Mg==
+">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:abolfazl.comm12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Twitter Badge"/>
+  <a href="https://wa.me/qr/KDMROH3TBODPD1
+">
+    <img src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=codestrap97a&style=for-the-badge&color=blueviolet" alt=""/>
