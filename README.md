@@ -8,7 +8,8 @@
 <img src="Assets/Banner.png" align="center" />  <br/>
 
 <div id="badges">
-  <a href="www.codestrap.ir">
+ 
+  <a href="https://www.codestrap.ir">
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/> 
   </a>
   
