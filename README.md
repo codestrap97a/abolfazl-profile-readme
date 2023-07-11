@@ -9,7 +9,8 @@
 
 <div id="badges">
   <a href="www.codestrap.ir">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/> 
+  </a>
   
   <a href="https://www.t.me/codestrap">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
