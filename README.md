@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-<img src="Assets/codestrap-1.png" align="center" />  <br/>
+<img src="Assets/codestrap-1.jpg" align="center" />  <br/>
 
 <div id="badges">
  
